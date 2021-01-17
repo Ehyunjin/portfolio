@@ -1,7 +1,7 @@
 @charset 'utf-8';
 
 .cont{ margin-top: 7.5%; margin-bottom: 8%; }
-.cont h2{ font-size: 3rem; font-weight: 200; margin-bottom: 4%;  text-align: center;}
+.cont h2{ font-size: 3rem; font-weight: 200; margin-bottom: 4%;  text-align: center;font-family: 'Jua', sans-serif;}
 .cont .list > li{ width: 33.3333%;float: left;  overflow: hidden; transition:all .4s;}
 .cont .list > li a{ display: block; position: relative; width: 100%; transition:all .4s;}
 .cont .list > li:hover a img{ transform:scale(1.15); transition:all .8s; }

@@ -11,6 +11,8 @@
 		<link rel="stylesheet" href="./font/font.css">
 		<link rel="stylesheet" href="./css/main.css">
 		<link rel="stylesheet" href="./css/media.css">
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap" rel="stylesheet">
 		<script src="./js/vendor/prefixfree.min.js"></script>
 		<script src="./js/jquery-3.4.1.min.js"></script>
 		<script src="./js/jquery-ui.min.js"></script>
@@ -21,7 +23,7 @@
 	<body>
 		<header id="header">
 			<div class="wrapper">
-				<h1><a href="/portfolio2019/" target="" title="퍼블리셔 유혜영 포트폴리오사이트"><img src="./img/logo_b.png" alt="logo"></a></h1>
+				<h1><a href="/portfolio2019/" target="" title=""><img src="./img/logo.png" alt="logo"></a></h1>
 			</div><!--w-->
 		</header>
 		<div class="contents" >
