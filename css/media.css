@@ -1,0 +1,133 @@
+@chasrset 'utf-8';
+
+@media screen and (min-width:1920px){
+	/* common */
+	body{ font-size: 19px; }
+	.wrapper{ width: 77%; max-width:none;}
+	header .wrapper{ width: 94%; }
+
+	/* sub portfolio */
+	.cont h2 { font-size: 4rem;}
+	.cont .list > li a .inner h3{ margin-top: 30%; }
+}
+@media screen and (max-width:1024px){
+	/* common */
+	.wrapper{ width: 88%; }
+	.i_dot:before{ display: none; }
+	.pop { min-width: auto; min-height: auto; width: 85%; }
+	.dis_tbl{ display: block; }
+	.dis_tbl > div{ display: block; } 
+	header .wrapper { padding: 1.5% 3%; width: 100%; box-sizing: border-box; }
+	header .wrapper h1{ position: static; float: left; width: 80px; min-width: 	auto; }
+	header .wrapper #gnb{ position: static; float: right; }
+	header .wrapper #gnb .gnb-btn span{ height: 2px; }
+	header .wrapper #gnb .gnb-nav{transform: rotate(0);top: 62px;right: 0;width: 100%;background: #2e2a2a;z-index: 97;/* height: 100%; */}
+	header .wrapper #gnb .gnb-btn.on + .gnb-nav{ right: 0; }
+	header .wrapper #gnb .gnb-nav li{display:block;width:100%;padding:0;box-sizing: border-box;}
+	header .wrapper #gnb .gnb-nav li a{display: block;width: 100%;padding: 3% 5%;color:#fff; text-align: center; box-sizing: border-box;}
+	header .wrapper #gnb .gnb-nav li:hover a{background:#383838}
+	header .wrapper #gnb .gnb-nav li:hover a:after{ display:none; }
+	header.black{ background: #ffffff; box-shadow: 0 0 10px rgba(0,0,0,.2); }
+	header.black h1{display:block;}	
+	header.black #gnb .gnb-btn span{background: #454545;}	
+
+	/* main */
+	#contents section{ height: auto; min-height:800px; }
+	#contents .main-slider{ height: auto; }
+	#contents section .main-slider .wrapper { padding-top: 10%; }
+	#contents section .main-slider > li .img { width: 100%; max-width:none; max-height: 500px;  overflow: hidden;}
+	#contents section .main-slider > li .txt { width: 100%; margin-top: 3%; text-align: center; }
+	#contents .main .bx-pager{display: none; }
+	#contents section .main-slider > li .txt .tit + p:after { top: 54px; left:50%; width: 60%; height: 1px; transform: translateX(-50%); }
+	#contents .career > div{width: 100%;padding: 8% 5%;box-sizing: border-box;}
+	#contents .career > div .cont_small{width: 100%;min-width:auto;float: none;}
+	#contents .career > div .cont_small li{margin-right: 0;padding: 3vw;box-sizing: border-box;}
+	#contents .career > div .cont_small li:before{ display: none; }
+	#contents .career > div .cont_small li:after{ display: none; }
+	#contents .career > div .cont_small dl{ margin-left: 0; }
+
+	/* sub portfolio */
+	.cont{ margin-top: 12%; }
+	.cont .list > li a .inner h3{ margin-top: 22%; }
+}
+
+@media screen and (max-width:960px){
+	/* common */
+	body{ font-size: 15px; }
+
+	/* sub portfolio */
+	.cont .list > li{ width: 50%; }
+}
+
+@media screen and (max-width:740px){
+	/* common */
+	body{ font-size: 13px; }
+	.wrapper { width: 94%; }
+	footer .wrapper { padding: 7% 0; }
+
+	/* main */
+	#contents section{ min-height:auto; }
+	#contents section .main-slider .wrapper{ padding-top: 15%; }
+	#contents section .main-slider > li .img{ height: 340px; }
+	#contents section .main-slider > li .txt .tit{ font-size: 2rem; }
+	#contents section .main-slider > li .txt .tit + p{font-size: 1rem;margin-top: 2%;margin-bottom: 7%;}
+	#contents section .main-slider > li .txt .tit + p:after{ display: none; }
+	#contents section .main-slider > li .txt .tit + p span{ display: block; }
+	#contents section .main-slider > li .txt .btn-wrap .btn_line{ width: 49%; }
+	#contents section .main-slider > li .txt .btn-wrap .btn_line:first-child{ margin-right: 2%; }
+	#contents section .main-slider > li .txt .btn-wrap .btn_line:nth-child(2){ display: none; }
+	#contents section .main-slider > li .txt .btn-wrap .btn:last-child{ width: 49%; margin-top: 0; }
+	#contents .main .bx-controls-direction{ display: none; }
+	.pop{ width: 92%; }
+	.pop .i_cancel{ top:3%; right:3%; }
+	.pop .i_cancel span{ width:24px;background:#484848; }
+	.pop h3{ font-size: 1.5rem; }
+	.pop h3 small{ padding: 2px 10px;font-size: .825rem; }
+	.pop h3 span { display: block; position: static; margin-top: 6px; }
+	.pop .per li { width: calc(100% - 50px); }
+	.pop .per li:nth-child(1){ margin-bottom: 2%; }
+	.pop .per li p{ height: 25px; padding: 3px 8px; font-size: .825rem; }
+	.pop .bg{ padding-bottom: 5%; }
+	.pop .bg li{ width: 31%; }
+	.pop .bg li .img{ height: 92px; }
+	.pop .bg li img{ max-width:55px; }
+	.pop .bg li .txt { font-size: .725rem; margin-top: -10px; }
+	.pop .per li span{ margin-top: -14px; margin-left: 8px; font-size: 1rem;}
+	#contents .career > div{ padding: 12% 5%; }
+	#contents .career > div .cont_small li{padding: 3vw 4vw;}
+	#contents .career > div .cont_small dl{margin-bottom: 8%;padding-bottom: 14%;}
+	#contents .career > div .cont_small dl:after{left: 50%;height: 40px;bottom: 0px;}
+	#contents .career > div .cont_small dl dt{ display: block; margin: 0 auto; }
+	#contents .career > div .cont_small dl dd{ width: 100%; margin-top: 3%; text-align: center; }
+
+	/* sub portfolio */
+	.cont h2{font-size: 2.5rem;}
+	.cont .list > li{ width: 100%; }
+	.cont .list > li a img, .cont .list > li a .inner{ display: block; width: 100%;}
+	.cont .list > li:hover a img{ transform:scale(1); }
+	.cont .list > li a .inner{position: relative;top: 0;opacity: 1;padding: 15% 2%; margin-top: -10%; background: #ffa03a;box-sizing: border-box;}
+	.cont .list > li:nth-child(odd) a .inner { background: #45afbc; }
+	.cont .list > li a .inner:after{content: '';display: block;position: absolute;top: 0px;left: 50%;width: 26px;height: 26px;transform:rotate(45deg) translateX(-50%);background: #ffa03a;}
+	.cont .list > li:nth-child(odd) a .inner:after{background: #45afbc;}
+	.cont .list > li a .inner h3{ margin-top: 0; font-size: 1.25rem;}
+	.cont .list > li a .inner .ani span{ width: 25%; opacity: 1; }
+}
+
+@media screen and (max-width:480px){
+	/* common */
+	header .wrapper{ padding: 3%; }
+	header .wrapper h1{ width: 72px; }
+	header .wrapper #gnb .gnb-btn{ width: 24px; height: 24px; }
+	footer p{ font-size: .825rem; }
+	footer .wrapper small{ line-height: 1.3; }
+	
+	/* main */
+	#contents section .main-slider .wrapper{ padding-top: 18%; }
+	#contents section .main-slider > li .img{ height: 195px; }
+	#contents .career > div .cont_small h3{ font-size: 1.05rem; }
+	#contents .career > div .cont_small li{ margin-bottom: 6%; }
+
+	/* sub portfolio */
+	.cont{ margin-top: 22%; }
+	.cont h2{ font-size: 2rem; }
+}
