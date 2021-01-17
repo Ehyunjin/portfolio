@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Competible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>이현진의 포트폴리오</title>
+		<link rel="icon" href="favicon.ico" /><!--파비곤을 ico확장자로 변경하여 폴더 경로에 덮어쓰기해주세용-->
+		<link rel="shortcut icon" href="favicon.ico" />
+		<link rel="stylesheet" href="./css/common.css">
+		<link rel="stylesheet" href="./font/font.css">
+		<link rel="stylesheet" href="./css/main.css">
+		<link rel="stylesheet" href="./css/media.css">
+		<script src="./js/vendor/prefixfree.min.js"></script>
+		<script src="./js/jquery-3.4.1.min.js"></script>
+		<script src="./js/jquery-ui.min.js"></script>
+		<script src="./js/jquery.bxslider.js"></script>
+		<script src="./js/main.js"></script>
+		<script src="https://kit.fontawesome.com/844d63cd30.js"></script>
+	</head>
+	<body>
+		<header id="header">
+			<div class="wrapper">
+				<h1><a href="/portfolio2019/" target="" title="퍼블리셔 유혜영 포트폴리오사이트"><img src="./img/logo_b.png" alt="logo"></a></h1>
+			</div><!--w-->
+		</header>
+		<div class="contents" >
+			<div class="cont">
+				<div class="wrapper">
+					<h2>포트폴리오</h2>
+					<ul class="list clearfix">
+						<li>
+							<a href="#">
+								<img src="./img/sub/portfolio06.jpg" alt="Portfolio Site"><!--리스트이미지-->
+								<div class="inner">
+									<h3>작업물 이름</h3>
+									<div class="ani">
+										<span></span>
+									</div>
+									<strong class="period">총 약 6일</strong>
+									<p class="point">#포트폴리오사이트 #반응형 #웹표준</p>
+									<p class="per">
+										<span class="dis_ib"><strong>PUBLISHING</strong> 100%</span>
+										<span class="dis_ib"><strong>DESIGN</strong> 100%</span>
+									</p>
+								</div>
+							</a>
+							<div class="pop-area">
+								<div class="pop-wrap">
+									<ul class="popup">
+										<li><img src="./img/sub/portfolio06.jpg" alt="Portfolio Site"></li>					
+									</ul>
+								</div>
+								<div class="pagerSelector">
+								</div>
+							</div>
+						</li><!--1-->
+						<li>
+							<a href="#">
+								<img src="./img/sub/portfolio02.jpg" alt="Portfolio Site">
+								<div class="inner">
+									<h3>Portfolio Site</h3>
+									<div class="ani">
+										<span></span>
+									</div>
+									<strong class="period">총 약 6일</strong>
+									<p class="point">#포트폴리오사이트 #반응형 #웹표준</p>
+									<p class="per">
+										<span class="dis_ib"><strong>PUBLISHING</strong> 100%</span>
+										<span class="dis_ib"><strong>DESIGN</strong> 100%</span>
+									</p>
+								</div>
+							</a>
+							<div class="pop-area">
+								<div class="pop-wrap">
+									<ul class="popup">
+										<li><img src="./img/sub/portfolio06.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/main/visual_img_02.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio03.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio04.jpg" alt="Portfolio Site"></li>							
+									</ul>
+								</div>
+								<div class="pagerSelector">
+								</div>
+							</div>
+						</li><!--2-->
+						<li>
+							<a href="#">
+								<img src="./img/sub/portfolio03.jpg" alt="Portfolio Site">
+								<div class="inner">
+									<h3>Portfolio Site</h3>
+									<div class="ani">
+										<span></span>
+									</div>
+									<strong class="period">총 약 6일</strong>
+									<p class="point">#포트폴리오사이트 #반응형 #웹표준</p>
+									<p class="per">
+										<span class="dis_ib"><strong>PUBLISHING</strong> 100%</span>
+										<span class="dis_ib"><strong>DESIGN</strong> 100%</span>
+									</p>
+								</div>
+							</a>
+							<div class="pop-area">
+								<div class="pop-wrap">
+									<ul class="popup">
+										<li><img src="./img/sub/portfolio01.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/main/visual_img_02.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio03.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio04.jpg" alt="Portfolio Site"></li>							
+									</ul>
+								</div>
+								<div class="pagerSelector">
+								</div>
+							</div>
+						</li><!--3-->
+						<li>
+							<a href="#">
+								<img src="./img/sub/portfolio04.jpg" alt="Portfolio Site">
+								<div class="inner">
+									<h3>Portfolio Site</h3>
+									<div class="ani">
+										<span></span>
+									</div>
+									<strong class="period">총 약 6일</strong>
+									<p class="point">#포트폴리오사이트 #반응형 #웹표준</p>
+									<p class="per">
+										<span class="dis_ib"><strong>PUBLISHING</strong> 100%</span>
+										<span class="dis_ib"><strong>DESIGN</strong> 100%</span>
+									</p>
+								</div>
+							</a>
+							<div class="pop-area">
+								<div class="pop-wrap">
+									<ul class="popup">
+										<li><img src="./img/sub/portfolio01.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/main/visual_img_02.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio03.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio04.jpg" alt="Portfolio Site"></li>							
+									</ul>
+								</div>
+								<div class="pagerSelector">
+								</div>
+							</div>
+						</li><!--4-->
+						<li>
+							<a href="#">
+								<img src="./img/sub/portfolio05.jpg" alt="Portfolio Site">
+								<div class="inner">
+									<h3>Portfolio Site</h3>
+									<div class="ani">
+										<span></span>
+									</div>
+									<strong class="period">총 약 6일</strong>
+									<p class="point">#포트폴리오사이트 #반응형 #웹표준</p>
+									<p class="per">
+										<span class="dis_ib"><strong>PUBLISHING</strong> 100%</span>
+										<span class="dis_ib"><strong>DESIGN</strong> 100%</span>
+									</p>
+								</div>
+							</a>
+							<div class="pop-area">
+								<div class="pop-wrap">
+									<ul class="popup">
+										<li><img src="./img/sub/portfolio01.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/main/visual_img_02.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio03.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio04.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio04.jpg" alt="Portfolio Site"></li>	
+									</ul>
+								</div>
+								<div class="pagerSelector">
+								</div>
+							</div>
+						</li><!--5-->
+						<li>
+							<a href="#">
+								<img src="./img/sub/portfolio06.jpg" alt="Portfolio Site">
+								<div class="inner">
+									<h3>Portfolio Site</h3>
+									<div class="ani">
+										<span></span>
+									</div>
+									<strong class="period">총 약 6일</strong>
+									<p class="point">#포트폴리오사이트 #반응형 #웹표준</p>
+									<p class="per">
+										<span class="dis_ib"><strong>PUBLISHING</strong> 100%</span>
+										<span class="dis_ib"><strong>DESIGN</strong> 100%</span>
+									</p>
+								</div>
+							</a>
+							<div class="pop-area">
+								<div class="pop-wrap">
+									<ul class="popup">
+										<li><img src="./img/sub/portfolio01.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/main/visual_img_02.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio03.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio04.jpg" alt="Portfolio Site"></li>							
+									</ul>
+								</div>
+								<div class="pagerSelector">
+								</div>
+							</div>
+						</li><!--6-->
+						<li>
+							<a href="#">
+								<img src="./img/sub/portfolio07.jpg" alt="Portfolio Site">
+								<div class="inner">
+									<h3>Portfolio Site</h3>
+									<div class="ani">
+										<span></span>
+									</div>
+									<strong class="period">총 약 6일</strong>
+									<p class="point">#포트폴리오사이트 #반응형 #웹표준</p>
+									<p class="per">
+										<span class="dis_ib"><strong>PUBLISHING</strong> 100%</span>
+										<span class="dis_ib"><strong>DESIGN</strong> 100%</span>
+									</p>
+								</div>
+							</a>
+							<div class="pop-area">
+								<div class="pop-wrap">
+									<ul class="popup">
+										<li><img src="./img/sub/portfolio01.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/main/visual_img_02.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio03.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio04.jpg" alt="Portfolio Site"></li>							
+									</ul>
+								</div>
+								<div class="pagerSelector">
+								</div>
+							</div>
+						</li><!--7-->
+						<li>
+							<a href="#">
+								<img src="./img/sub/portfolio08.jpg" alt="Portfolio Site">
+								<div class="inner">
+									<h3>Portfolio Site</h3>
+									<div class="ani">
+										<span></span>
+									</div>
+									<strong class="period">총 약 6일</strong>
+									<p class="point">#포트폴리오사이트 #반응형 #웹표준</p>
+									<p class="per">
+										<span class="dis_ib"><strong>PUBLISHING</strong> 100%</span>
+										<span class="dis_ib"><strong>DESIGN</strong> 100%</span>
+									</p>
+								</div>
+							</a>
+							<div class="pop-area">
+								<div class="pop-wrap">
+									<ul class="popup">
+										<li><img src="./img/sub/portfolio01.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/main/visual_img_02.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio03.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio04.jpg" alt="Portfolio Site"></li>							
+									</ul>
+								</div>
+								<div class="pagerSelector">
+								</div>
+							</div>
+						</li><!--8-->
+						<li>
+							<a href="#">
+								<img src="./img/sub/portfolio09.jpg" alt="Portfolio Site">
+								<div class="inner">
+									<h3>Portfolio Site</h3>
+									<div class="ani">
+										<span></span>
+									</div>
+									<strong class="period">총 약 6일</strong>
+									<p class="point">#포트폴리오사이트 #반응형 #웹표준</p>
+									<p class="per">
+										<span class="dis_ib"><strong>PUBLISHING</strong> 100%</span>
+										<span class="dis_ib"><strong>DESIGN</strong> 100%</span>
+									</p>
+								</div>
+							</a>
+							<div class="pop-area">
+								<div class="pop-wrap">
+									<ul class="popup">
+										<li><img src="./img/sub/portfolio01.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/main/visual_img_02.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio03.jpg" alt="Portfolio Site"></li>
+										<li><img src="./img/sub/portfolio04.jpg" alt="Portfolio Site"></li>							
+									</ul>
+								</div>
+								<div class="pagerSelector"></div>
+							</div>
+						</li><!--9-->
+					</ul>
+					<!--팝업영역-->
+					<div class="pop-area pop"></div>
+					<div class="controls">
+						<div class="prev"></div>
+						<div class="next"></div>
+					</div>
+					<div class="bg-black"></div>
+					<a href="#" class="cancel"><img src="./img/ico/i_cancel.png" alt=""></a>
+				</div>
+			</div>
+		</div>
+			<a href="" class="btn_top">
+				<span></span>
+				<span></span>
+			</a>
+		</div><!--#contents-->
+		<footer class="cont t-cent">
+			<div class="wrapper">
+				<p>Tel . 010·2329·9516 | E-mail . dbgpdud_@naver.com</p>
+				<small>※ 본 페이지는 상업적 목적이 아닌 개인 포트폴리오용으로 제작되었습니다. </small>
+			</div>
+			<div class="copyright">COPYRIGHT ⓒ 2019. HYEYEONG-YU. ALL RIGHTS RESERVED.</div>
+		</footer><!---#footer-->
+	</body>
+</html>
