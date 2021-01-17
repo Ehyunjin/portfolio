@@ -108,9 +108,8 @@ body{font-family: 'spoqa-hs'; font-size: 17px; color: #404040; line-height: 1.4;
 .i_dot:before { content: '·'; display: block; position: absolute; top: 0px; left: 2px; }
 
 /*header*/
-header{position: fixed;top: 0;left: 0;width: 100%;z-index: 98;transition:all .4s;}
 header .wrapper{max-width:none;position: relative;}
-header .wrapper h1 { position: absolute;top: 40px;left: 0;width: 8%;min-width:125px;}
+header .wrapper h1 {position: absolute;top: -50px;left: 0;width: 8%;min-width:125px;}
 header .wrapper h1 img{ transition:all .4s; }
 
 
